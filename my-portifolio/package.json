@@ -2,7 +2,7 @@
   "name": "my-portifolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Erc-prog-xD.github.io/Portifolio",
+  "homepage": "https://erc-prog-xd.github.io/Portifolio/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
